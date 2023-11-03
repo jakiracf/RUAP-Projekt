@@ -6,7 +6,7 @@ namespace RUAP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav od Fiće <3");
+            Console.WriteLine("Pozdrav od Fiće <3 MINGW64");
         }
     }
 }
