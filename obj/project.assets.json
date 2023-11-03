@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jakirac\\Desktop\\ruap\\RUAP\\RUAP.csproj",
+      "projectUniqueName": "C:\\Users\\Jakirac\\Desktop\\ruap\\RUAP.csproj",
       "projectName": "RUAP",
-      "projectPath": "C:\\Users\\Jakirac\\Desktop\\ruap\\RUAP\\RUAP.csproj",
+      "projectPath": "C:\\Users\\Jakirac\\Desktop\\ruap\\RUAP.csproj",
       "packagesPath": "C:\\Users\\Jakirac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jakirac\\Desktop\\ruap\\RUAP\\obj\\",
+      "outputPath": "C:\\Users\\Jakirac\\Desktop\\ruap\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jakirac\\AppData\\Roaming\\NuGet\\NuGet.Config",
