@@ -1,1 +1,1 @@
-# RUAP-Projekt
+Azure ML demo project
